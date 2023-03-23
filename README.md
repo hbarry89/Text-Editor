@@ -22,33 +22,37 @@ so that they can reliably retrieve them for later use.
 
 ### Resources :books:
 - Bootcamp Materials
+- Unit 19 Mini-Project
 - Demonstration by TA in class
 - Starter code and files/folders have been provided.
 - Tutor
 
 ### Assets :sparkles:
-#### *Root* Packages
-**Dependencies:**
+***Root* Packages**
+
+Dependencies:
 - express
 - if-env
 
-**devDependencies:**
+devDependencies:
 - concurrently
 - nodemon
 
-#### *Server* Packages
-**Dependencies:**
+***Server* Packages**
+
+Dependencies:
 - express
 
-**devDependencies:**
+devDependencies:
 - nodemon
 
-#### *Client* Packages
-**Dependencies:**
+***Client* Packages**
+
+Dependencies:
 - code-mirror-themes
 - idb
 
-**devDependencies:**
+devDependencies:
 - @babel/core
 - @babel/plugin-transform-runtime
 - @babel/preset-env
