@@ -8,7 +8,7 @@ so that they can reliably retrieve them for later use.
 
 ## Usage
 
-- [Click here](https://*.herokuapp.com/) to navigate to the live link of this repository.
+- [Click here](https://aqueous-anchorage-39063.herokuapp.com/) to navigate to the live link of this repository.
 
 ---------------------------
 
@@ -27,7 +27,42 @@ so that they can reliably retrieve them for later use.
 - Tutor
 
 ### Assets :sparkles:
-- [idb](https://www.npmjs.com/package/idb) Package
+#### *Root* Packages
+**Dependencies:**
+- express
+- if-env
+
+**devDependencies:**
+- concurrently
+- nodemon
+
+#### *Server* Packages
+**Dependencies:**
+- express
+
+**devDependencies:**
+- nodemon
+
+#### *Client* Packages
+**Dependencies:**
+- code-mirror-themes
+- idb
+
+**devDependencies:**
+- @babel/core
+- @babel/plugin-transform-runtime
+- @babel/preset-env
+- @babel/runtime"
+- babel-loader
+- css-loader
+- html-webpack-plugin
+- http-server
+- style-loader
+- webpack
+- webpack-cli
+- webpack-dev-server
+- webpack-pwa-manifest
+- workbox-webpack-plugin
 
 ### Applications Used :gear:
 - VS Code
