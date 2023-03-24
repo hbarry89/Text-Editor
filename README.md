@@ -22,7 +22,7 @@ so that they can reliably retrieve them for later use.
 
 ### Resources :books:
 - Bootcamp Materials
-- Unit 19 Mini-Project
+- Unit 19-PWA: *28-Stu_Mini-Project* and *26-Stu_Manifest*
 - Demonstration by TA in class
 - Starter code and files/folders have been provided.
 - Tutor
