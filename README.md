@@ -12,9 +12,23 @@ so that they can reliably retrieve them for later use.
 
 ---------------------------
 
-- Screenshots
+- You are presented with the text editor:
 
-<img src="./demo-images/demo1.png" width="100" height="100">
+<img src="./demo-images/demo1.png" width="600" height="300">
+
+---------------------------
+
+- Input is saved into *jate* database:
+
+<img src="./demo-images/demo2.png" width="600" height="300">
+
+---------------------------
+
+- When you click install, applicaition is installed in your machine:
+
+<img src="./demo-images/demo3.png" width="600" height="300">
+
+<img src="./demo-images/demo4.png" width="600" height="300">
 
 ---------------------------
 
