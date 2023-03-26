@@ -28,6 +28,9 @@ so that they can reliably retrieve them for later use.
 - Tutor
 
 ### Assets :sparkles:
+
+List of all packages used in this application from [npm](https://www.npmjs.com/):
+
 ***Root* Packages**
 
 Dependencies:
