@@ -16,19 +16,41 @@ so that they can reliably retrieve them for later use.
 
 <img src="./demo-images/demo1.png" width="600" height="300">
 
----------------------------
-
-- Input is saved into *jate* database:
+- No errors in console log:
 
 <img src="./demo-images/demo2.png" width="600" height="300">
 
 ---------------------------
 
-- When you click install, applicaition is installed in your machine:
+- Manifest information:
 
 <img src="./demo-images/demo3.png" width="600" height="300">
 
+- No errors in Service Workers:
+
 <img src="./demo-images/demo4.png" width="600" height="300">
+
+In browser, input is saved into *jate* IndexedDB database:
+
+<img src="./demo-images/demo9.png" width="600" height="300">
+
+---------------------------
+
+- When you click install, you will be presented with a confirmation:
+
+<img src="./demo-images/demo5.png" width="600" height="300">
+
+- If you click install, applicaition is installed in your machine:
+
+<img src="./demo-images/demo6.png" width="600" height="300">
+
+<img src="./demo-images/demo7.png" width="600" height="300">
+
+---------------------------
+
+- In the downloaded appliaction, input is saved into *jate* IndexedDB database:
+
+<img src="./demo-images/demo8.png" width="600" height="300">
 
 ---------------------------
 
